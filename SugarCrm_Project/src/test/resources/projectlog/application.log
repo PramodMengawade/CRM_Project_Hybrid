@@ -12231,3 +12231,9 @@
 2023-06-16 10:49:03,485  INFO [main] BaseClass:33 - initializing chrome browser
 2023-06-16 10:49:07,894  INFO [main] BaseClass:29 - reading property file for browser name
 2023-06-16 10:49:07,894  INFO [main] BaseClass:33 - initializing chrome browser
+2023-06-16 16:38:29,988  INFO [main] BaseClass:29 - reading property file for browser name
+2023-06-16 16:38:29,992  INFO [main] BaseClass:33 - initializing chrome browser
+2023-06-16 16:38:47,178  INFO [main] BaseClass:29 - reading property file for browser name
+2023-06-16 16:38:47,178  INFO [main] BaseClass:33 - initializing chrome browser
+2023-06-16 16:38:52,436  INFO [main] BaseClass:29 - reading property file for browser name
+2023-06-16 16:38:52,436  INFO [main] BaseClass:33 - initializing chrome browser
